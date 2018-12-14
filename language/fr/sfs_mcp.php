@@ -1,5 +1,4 @@
 <?php
-<?php
 /**
  *
  * Stop Forum Spam. An extension for the phpBB Forum Software package.
